@@ -1,0 +1,25 @@
+###📌 What is RestAssured?
+##✨ RestAssured is a Java-based library designed to simplify REST API automation testing.
+Instead of testing APIs manually with tools like Postman, RestAssured allows you to write automated scripts that:
+
+📡 Send HTTP requests → GET, POST, PUT, DELETE, PATCH
+
+✅ Validate responses → Status codes, headers, body content, response time
+
+🔐 Handle authentication → Basic Auth, OAuth, JWT tokens
+
+🔄 Run tests repeatedly → Perfect for CI/CD pipelines
+
+🚀 Why RestAssured Matters in QA Automation
+
+⚡ Fluent, human-readable syntax → easy to learn & implement
+
+🔗 Integrates with TestNG / JUnit for structured test execution
+
+📊 Supports JSON & XML response validation
+
+🛠️ Compatible with Maven/Gradle build tools
+
+🔄 CI/CD Ready → Works with Jenkins, GitHub Actions & pipelines
+
+📑 Enhanced Reporting → Combine with Allure / Extent reports for professional reports
